@@ -137,3 +137,5 @@ For questions or support, please open an issue in the repository.
 *Disclaimer*: This smart contract is for educational and demonstration purposes. Before deploying to production, conduct thorough security audits and ensure compliance with healthcare regulations in your jurisdiction.
 
 ## Contracts Details : 0xEF498c2791b5B3D895553b95FBDaa2B5a54B76Dd
+
+<img width="1736" height="671" alt="Screenshot 2025-10-29 192106" src="https://github.com/user-attachments/assets/d5288cbe-3f11-4970-90ef-1c41448a7fdf" />
